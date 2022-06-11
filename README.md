@@ -1,0 +1,1 @@
+Foi recriado a página inicial do instagram, utilizando HTML, CSS com flexbox
